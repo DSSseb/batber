@@ -1,0 +1,3 @@
+streamlit>=1.38
+plotly>=5.24
+reportlab>=4.2
